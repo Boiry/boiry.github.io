@@ -1,0 +1,33 @@
+body {
+  background: linear-gradient(20deg, rgba(168, 197, 255, .5), rgba(132, 173, 255, .5));
+  font-family: Arial, Helvetica, sans-serif;
+  color: #1b2231;
+  text-shadow: 2px 2px 5px white;
+}
+
+
+.h1 {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 40px 0 10px 0;
+}
+
+.h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+hr {
+  color: #1f3052;
+  width: 85vw;
+  margin: 30px;
+}
+
+article {
+  width: 75vw;
+}
+
+.p {
+  text-align: justify;
+}
